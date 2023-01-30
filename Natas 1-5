@@ -1,0 +1,12 @@
+Natas 0: #Чтобы решить данную задачу, достаточно знать хоткей F12/Ctrl+U, в последствии изучения исходного кода получаем первый флаг.
+password: g9D9cREhslqBKtcA2uocGHPfMZVzeFK6
+
+Natas 1: #Нам выводится сообщение "You can find the password for the next level on this page, but rightclicking has been blocked!", опять-таки с помощью хоткея Ctrl+U
+password: h4ubbcXrWqsTo7GGnnUMLppXbOogfBZ7
+
+Natas 2: #Получаем сообщение: "There is nothing on this page", значит самое время смотреть исходный код. Находим сурсную строку: img src="files/pixel.png">, где 
+в последствии имеем возможность перейти по данному пути. Однако нас интересует /files больше, чем чёрная картинка. В индексе файлов мы находим текстовый документ с
+необходимым паролем. 
+password: G6ctbMJ5Nb4cbFwhpMPSvxGHhQ7I6W8Q
+
+Natas 3:
